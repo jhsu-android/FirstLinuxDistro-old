@@ -73,7 +73,7 @@
       <file leaf-file-name="FragmentAnswer.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/jasonhsu/firstlinuxdistro/FragmentAnswer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.08">
+            <state line="6" column="97" selection-start="119" selection-end="119" vertical-scroll-proportion="0.24861878">
               <folding />
             </state>
           </provider>
@@ -569,13 +569,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/fragment-questions.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="37" selection-start="460" selection-end="460" vertical-scroll-proportion="0.48">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jasonhsu/firstlinuxdistro/FragmentQuestions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="51" selection-start="119" selection-end="119" vertical-scroll-proportion="0.16">
@@ -590,13 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/fragment-answer.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="64" selection-start="414" selection-end="414" vertical-scroll-proportion="0.4">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/main2.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="63" selection-start="729" selection-end="729" vertical-scroll-proportion="0.64">
@@ -606,7 +592,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/jasonhsu/firstlinuxdistro/FragmentAnswer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="40" selection-end="40" vertical-scroll-proportion="0.08">
+        <state line="6" column="97" selection-start="119" selection-end="119" vertical-scroll-proportion="0.24861878">
           <folding />
         </state>
       </provider>
