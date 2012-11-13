@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Find Your First Linux Distro</string>
+    <string name="text_intro">Welcome to Find Your First Linux Distro!
+        That old PC still has value.
+        This app helps you select your first Linux distro based on the specs of your PC.
+    </string>
 </resources>
